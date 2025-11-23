@@ -24,3 +24,7 @@ Deployed the project to Render (free tier) since it provides a straightforward z
 ## How to run locally
 1. Ensure Python (>=3.10) is installed.  
 2. Create and activate a virtual environment:
+
+## Notebook & Analysis
+You can view the full data analysis, visualizations, preprocessing steps, and model training workflow in the Google Colab notebook:
+https://colab.research.google.com/drive/1z4Pacfr5SbvZOpXBF2gPcFuCzNL05RjU?usp=sharing
