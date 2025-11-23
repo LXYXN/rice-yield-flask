@@ -17,6 +17,8 @@ This project implements an end-to-end machine learning workflow including:
 ## Web Service Deployment
 https://rice-yield-flask.onrender.com/predict
 
+<img width="684" height="466" alt="image" src="https://github.com/user-attachments/assets/8cb3a6ff-b9c5-41a0-96c9-141c38db4446" />
+
 Deployed the project to Render (free tier) since it provides a straightforward zero-devops workflow for Python/Flask web services. The service automatically rebuilds and redeploys on every Git push to the main branch.
 
 ## How to run locally
