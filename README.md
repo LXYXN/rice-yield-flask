@@ -25,6 +25,24 @@ Deployed the project to Render (free tier) since it provides a straightforward z
 1. Ensure Python (>=3.10) is installed.  
 2. Create and activate a virtual environment:
 
-## Notebook & Analysis
-You can view the full data analysis, visualizations, preprocessing steps, and model training workflow in the Google Colab notebook:
+---
+
+## Additional Resources
+
+<details>
+<summary><strong>Show Resources (Click to Expand)</strong></summary>
+<br>
+
+**Google Colab Notebook:**  
 https://colab.research.google.com/drive/1z4Pacfr5SbvZOpXBF2gPcFuCzNL05RjU?usp=sharing
+
+**Saved Images (EDA & Plots):**  
+https://drive.google.com/drive/folders/1XF76db60F2K3DJDYokLjylCKBy9HUpUa?usp=drive_link
+
+**Full Report (PDF):**  
+https://drive.google.com/file/d/1xGUnT30URohZz9duZhfSvwrYa1KIX29l/view?usp=sharing
+
+**Presentation (PPT):**  
+https://docs.google.com/presentation/d/1Bd4zmlSXm5n8gnYN5mrROXOaWD4BKxxFyfndV0YxAmc/edit?usp=sharing
+
+</details>
