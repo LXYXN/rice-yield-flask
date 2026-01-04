@@ -1,4 +1,4 @@
-# Rice Yield Prediction — Statistical Machine Learning Assignment 1
+# Rice Yield Prediction
 
 I developed this system by training a machine learning model on agricultural crop data and deploying it as a Flask web application. I tested the model locally, added form validation, and built an easy-to-use interface for interacting with the trained model.
 
@@ -38,9 +38,6 @@ https://colab.research.google.com/drive/1z4Pacfr5SbvZOpXBF2gPcFuCzNL05RjU?usp=sh
 
 **Saved Images (EDA & Plots):**  
 https://drive.google.com/drive/folders/1XF76db60F2K3DJDYokLjylCKBy9HUpUa?usp=drive_link
-
-**Full Report (PDF):**  
-https://drive.google.com/file/d/1xGUnT30URohZz9duZhfSvwrYa1KIX29l/view?usp=sharing
 
 **Presentation (PPT):**  
 https://docs.google.com/presentation/d/1Bd4zmlSXm5n8gnYN5mrROXOaWD4BKxxFyfndV0YxAmc/edit?usp=sharing
